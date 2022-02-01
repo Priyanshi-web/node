@@ -1,0 +1,25 @@
+{
+  "name": "firstapiproject",
+  "version": "1.0.0",
+  "description": "first api project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "mongoose": "^6.1.4"
+  },
+  "keywords": [],
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Priyanshi-web/node.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Priyanshi-web/node/issues"
+  },
+  "homepage": "https://github.com/Priyanshi-web/node#readme"
+}
