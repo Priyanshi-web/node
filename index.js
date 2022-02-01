@@ -17,8 +17,8 @@ mongoose.connect('mongodb://localhost:27017/movies').then(() => {
     app.listen((process.env.PORT||3000),()=>{
         console.log('server started')
     })
-    /*
-    app.listen(3000,()=>{
+    
+    /*app.listen(3000,()=>{
         console.log("server started")
     })*/
 }).catch((e)=>{
